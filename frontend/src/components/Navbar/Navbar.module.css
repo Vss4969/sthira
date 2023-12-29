@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+  }
+  
+  .navbar__links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar__links a {
+    margin-right: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar__user {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar__user-info {
+    margin-right: 10px;
+    color: white;
+  }
+  
+  .navbar__avatar {
+    margin-right: 10px;
+  }
+  
+  .navbar__logout-btn {
+    color: white;
+  }
+  

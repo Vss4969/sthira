@@ -1,0 +1,24 @@
+button {
+  display: inline-block;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+  text-transform: none;
+  vertical-align: middle;
+  user-select: none;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+  cursor: pointer;
+  margin: 0;
+  padding: .5rem 1rem;
+  border: 1px solid #0065c1;
+  border-radius: .25rem;
+  color: #fff;
+  background-color: #0065c1;
+}
+
+button:hover {
+  color: #fff;
+  background-color: #0056a4;
+  border-color: #00519a;
+}
