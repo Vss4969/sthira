@@ -11,7 +11,7 @@
     "@material-ui/styles": "^4.11.5",
     "@mui/icons-material": "^5.14.19",
     "@mui/material": "^5.14.20",
-    "@mui/styles": "^5.14.20",
+    "@mui/styles": "^5.15.2",
     "@mui/system": "^5.14.20",
     "@supabase/supabase-js": "^2.38.5",
     "@testing-library/jest-dom": "^5.17.0",
