@@ -11,7 +11,7 @@ contourpy==1.2.0
 cryptography==41.0.5
 cycler==0.12.1
 distro==1.8.0
-dnspython==2.4.2
+dnspython==2.6.0rc1
 fastapi==0.104.1
 fonttools==4.44.0
 h11==0.14.0
