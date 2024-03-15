@@ -8,10 +8,10 @@ charset-normalizer==3.2.0
 click==8.1.7
 colorama==0.4.6
 contourpy==1.2.0
-cryptography==41.0.5
+cryptography==42.0.4
 cycler==0.12.1
 distro==1.8.0
-dnspython==2.4.2
+dnspython==2.6.1
 fastapi==0.104.1
 fonttools==4.44.0
 h11==0.14.0
@@ -34,7 +34,7 @@ pymongo==4.6.0
 pyparsing==3.1.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
-python-multipart==0.0.6
+python-multipart==0.0.7
 regex==2023.10.3
 requests==2.31.0
 six==1.16.0
@@ -44,5 +44,5 @@ sympy==1.12
 tiktoken==0.5.2
 tqdm==4.66.1
 typing_extensions==4.8.0
-urllib3==2.0.4
+urllib3==2.0.7
 uvicorn==0.24.0.post1
